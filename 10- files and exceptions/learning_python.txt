@@ -1,0 +1,8 @@
+the things i have learnt in python in no particular order
+ variables and simple data types
+ list in python
+ if statements in python
+ dictionaries in python
+ user input and while loops
+ functions in python
+ classes in python
