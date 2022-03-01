@@ -11,12 +11,12 @@ for line in lines:
 print(pi_string[:10])
 print(len(pi_string))
 
-# # a program to show if your birthday is contained in pi?
-# birthday = input('enter your birthday in the form of mmddyy- ')
-# if birthday in pi_string:
-#     print(f"your birthday appears in the first 1million digit of pi")
-# else:
-#     print('your birthday does not appear in the first 1 million digit of pi')
+# a program to show if your birthday is contained in pi?
+birthday = input('enter your birthday in the form of mmddyy- ')
+if birthday in pi_string:
+    print(f"your birthday appears in the first 1million digit of pi")
+else:
+    print('your birthday does not appear in the first 1 million digit of pi')
     
 # exercise 10-1
 # A - print the contents by reading in the entire file
